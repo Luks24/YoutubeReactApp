@@ -1,1 +1,1 @@
-A simple react app that uses an youtube api that allowes you to search youtube videos and displays the firs 5.
+A simple react app that uses an youtube api that allowes you to search youtube videos and displays the first 5.
